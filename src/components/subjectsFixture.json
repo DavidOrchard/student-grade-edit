@@ -1,0 +1,16 @@
+[
+    {
+       "courseId":"125739",
+       "subject":"Chemistry 12",
+       "score":"97",
+       "grade":"A+",
+       "credits":"4"
+    },
+    {
+       "courseId":"134423",
+       "subject":"Biology 12",
+       "score":"73",
+       "grade":"B",
+       "credits":"4"
+    }
+ ]

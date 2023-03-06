@@ -1,0 +1,33 @@
+.search-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:40px;
+}
+
+.studentSubjects {
+    width:100%;
+    border-style: inset;
+    border-width: 5px;
+}
+
+.row {
+    padding: 10px;
+    display:flex;
+    width:100%;
+    justify-content:space-between
+
+}
+
+.subject {
+    border-style: inset;
+    border-width: 5px; 
+}
+
+
+.editSave button {
+    color: blue;
+    border: 0;
+    color-scheme: normal;
+    /* hack for dark mode. UI only has effectively a light mode */
+}
